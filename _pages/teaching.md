@@ -2,10 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Summary of my past teching activities.
+description: My present and past teaching activities
 
 social: true
 ---
+
+### Architettura degli Elaboratori e Laboratorio (M-Z) - corso di laurea triennale in Informatica
+
+* [Lezione 1: Introduzione al corso](../assets/pdf/introduzione-al-corso.pdf){:target="\_blank"}
+
+### Summary of my past teching activities:
 
 * <b>2019</b> Laboratory teaching assistant for the course of ''Basics of Multimedia Systems'' at the Department of Electrical and Computer Engineering. <i>Ryerson University, Toronto</i>
 * <b>2018</b> Co-supervisor M.Sc. thesis on autonomous UAV navigation using vision and deep reinforcement learning. <i>VisLab, ISR, IST, Lisbon</i>
