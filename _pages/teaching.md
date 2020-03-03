@@ -10,6 +10,7 @@ social: true
 ### Architettura degli Elaboratori e Laboratorio (M-Z) - corso di laurea triennale in Informatica
 
 * [Lezione 1: Introduzione al corso](../assets/pdf/introduzione-al-corso.pdf){:target="\_blank"}
+* [Lezione 2: Sistemi di numerazione e rappresentazione binaria](../assets/pdf/Sistemi-di-numerazione-e-rappresentazione-binaria.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
