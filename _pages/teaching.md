@@ -18,6 +18,7 @@ social: true
 * [Lezione 5: Circuiti integrati](../assets/pdf/Tecnologia-microelettronica.pdf){:target="\_blank"}
 * [Esercitazione 3: Esercizi circuiti integrati](../assets/pdf/Esercizi-circuiti-logici.pdf){:target="\_blank"}
 * [Lezione 6: Insieme di isturzioni macchina](../assets/pdf/Insieme-di-istruzioni-macchina.pdf){:target="\_blank"}
+* [Esercitazione 4: Esercizi ARM 1](../assets/pdf/Esercitazione-ARM-1.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
