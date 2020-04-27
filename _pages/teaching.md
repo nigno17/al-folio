@@ -20,6 +20,7 @@ social: true
 * [Lezione 6: Insieme di isturzioni macchina](../assets/pdf/Insieme-di-istruzioni-macchina.pdf){:target="\_blank"}
 * [Esercitazione 4: Esercizi ARM 1 (slides)](../assets/pdf/Esercitazione-ARM-1.pdf){:target="\_blank"}
 * [Esercitazione 5: Esercizi ARM 1 (codici)](../assets/archives/Primi-esercizi-ARM.zip){:target="\_blank"}
+* [Lezione 7: Operazioni di ingresso e uscita](../assets/pdf/Operazioni-di-ingresso-e-uscita.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
