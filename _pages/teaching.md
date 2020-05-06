@@ -22,6 +22,7 @@ social: true
 * [Esercitazione 5: Esercizi ARM 1 (codici)](../assets/archives/Primi-esercizi-ARM.zip){:target="\_blank"}
 * [Lezione 7: Operazioni di ingresso e uscita](../assets/pdf/Operazioni-di-ingresso-e-uscita.pdf){:target="\_blank"}
 * [Esercitazione 6: Esercizi ARM 2 (codici)](../assets/archives/Secondi-esercizi-ARM.zip){:target="\_blank"}
+* [Lezione 8: Livello software](../assets/pdf/Livello-software.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
