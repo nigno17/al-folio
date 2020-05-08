@@ -23,6 +23,9 @@ social: true
 * [Lezione 7: Operazioni di ingresso e uscita](../assets/pdf/Operazioni-di-ingresso-e-uscita.pdf){:target="\_blank"}
 * [Esercitazione 6: Esercizi ARM 2 (codici)](../assets/archives/Secondi-esercizi-ARM.zip){:target="\_blank"}
 * [Lezione 8: Livello software](../assets/pdf/Livello-software.pdf){:target="\_blank"}
+* [Lezione 9: Struttura base del processore](../assets/pdf/Struttura-base-del-processore.pdf){:target="\_blank"}
+
+Struttura-base-del-processore.pdf
 
 ### Summary of my past teching activities:
 
