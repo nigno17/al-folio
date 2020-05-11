@@ -25,8 +25,6 @@ social: true
 * [Lezione 8: Livello software](../assets/pdf/Livello-software.pdf){:target="\_blank"}
 * [Lezione 9: Struttura base del processore](../assets/pdf/Struttura-base-del-processore.pdf){:target="\_blank"}
 
-Struttura-base-del-processore.pdf
-
 ### Summary of my past teching activities:
 
 * <b>2019</b> Laboratory teaching assistant for the course of ''Basics of Multimedia Systems'' at the Department of Electrical and Computer Engineering. <i>Ryerson University, Toronto</i>
