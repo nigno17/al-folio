@@ -24,6 +24,8 @@ social: true
 * [Esercitazione 6: Esercizi ARM 2 (codici)](../assets/archives/Secondi-esercizi-ARM.zip){:target="\_blank"}
 * [Lezione 8: Livello software](../assets/pdf/Livello-software.pdf){:target="\_blank"}
 * [Lezione 9: Struttura base del processore](../assets/pdf/Struttura-base-del-processore.pdf){:target="\_blank"}
+* [Esercitazione 7: Esercizi struttura del processore](../assets/pdf/Esercizi-struttura-del-processore.pdf){:target="\_blank"}
+* [Lezione 10: Pipelining](../assets/pdf/Pipelining.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
