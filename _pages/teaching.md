@@ -27,6 +27,7 @@ social: true
 * [Esercitazione 7: Esercizi struttura del processore](../assets/pdf/Esercizi-struttura-del-processore.pdf){:target="\_blank"}
 * [Lezione 10: Pipelining](../assets/pdf/Pipelining.pdf){:target="\_blank"}
 * [Esercitazione 8: Esercizi pipelining](../assets/pdf/Esercizi-pipelining.pdf){:target="\_blank"}
+* [Lezione 11: Interfacce di I/O](../assets/pdf/Interfacce-Input-Output.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
