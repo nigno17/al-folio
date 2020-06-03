@@ -28,6 +28,7 @@ social: true
 * [Lezione 10: Pipelining](../assets/pdf/Pipelining.pdf){:target="\_blank"}
 * [Esercitazione 8: Esercizi pipelining](../assets/pdf/Esercizi-pipelining.pdf){:target="\_blank"}
 * [Lezione 11: Interfacce di I/O](../assets/pdf/Interfacce-Input-Output.pdf){:target="\_blank"}
+* [Lezione 12: Sistemi di memoria](../assets/pdf/sistemi_di_memoria.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
