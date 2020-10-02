@@ -11,25 +11,25 @@ social: true
 
 * [Lezione 1: Introduzione al corso](../assets/pdf/introduzione-al-corso.pdf){:target="\_blank"}
 * [Lezione 2: Sistemi di numerazione e rappresentazione binaria](../assets/pdf/Sistemi-di-numerazione-e-rappresentazione-binaria.pdf){:target="\_blank"}
-#* [Lezione 3: Rappresentazione binaria di dati complessi](../assets/pdf/Rappresentazione-binaria-di-dati-complessi.pdf){:target="\_blank"}
-#* [Esercitazione 1: Esercizi sistemi di numerazione e rappresentazione binaria](../assets/pdf/Esercizi-sistemi-di-numerazione-e-rappresentazione-binaria.pdf){:target="\_blank"}
-#* [Lezione 4: Algebra booleana e circuiti logici](../assets/pdf/algebra-booleana-e-circuiti-logici.pdf){:target="\_blank"}
-#* [Esercitazione 2: Esercizi algebra booleana](../assets/pdf/Esercizi-algebra-booleana.pdf){:target="\_blank"}
-#* [Lezione 5: Circuiti integrati](../assets/pdf/Tecnologia-microelettronica.pdf){:target="\_blank"}
-#* [Esercitazione 3: Esercizi circuiti integrati](../assets/pdf/Esercizi-circuiti-logici.pdf){:target="\_blank"}
-#* [Lezione 6: Insieme di isturzioni macchina](../assets/pdf/Insieme-di-istruzioni-macchina.pdf){:target="\_blank"}
-#* [Esercitazione 4: Esercizi ARM 1 (slides)](../assets/pdf/Esercitazione-ARM-1.pdf){:target="\_blank"}
-#* [Esercitazione 5: Esercizi ARM 1 (codici)](../assets/archives/Primi-esercizi-ARM.zip){:target="\_blank"}
-#* [Lezione 7: Operazioni di ingresso e uscita](../assets/pdf/Operazioni-di-ingresso-e-uscita.pdf){:target="\_blank"}
-#* [Esercitazione 6: Esercizi ARM 2 (codici)](../assets/archives/Secondi-esercizi-ARM.zip){:target="\_blank"}
-#* [Lezione 8: Livello software](../assets/pdf/Livello-software.pdf){:target="\_blank"}
-#* [Lezione 9: Struttura base del processore](../assets/pdf/Struttura-base-del-processore.pdf){:target="\_blank"}
-#* [Esercitazione 7: Esercizi struttura del processore](../assets/pdf/Esercizi-struttura-del-processore.pdf){:target="\_blank"}
-#* [Lezione 10: Pipelining](../assets/pdf/Pipelining.pdf){:target="\_blank"}
-#* [Esercitazione 8: Esercizi pipelining](../assets/pdf/Esercizi-pipelining.pdf){:target="\_blank"}
-#* [Lezione 11: Interfacce di I/O](../assets/pdf/Interfacce-Input-Output.pdf){:target="\_blank"}
-#* [Lezione 12: Sistemi di memoria](../assets/pdf/sistemi_di_memoria.pdf){:target="\_blank"}
-#* [Lezione 13: Circuiti aritmetici](../assets/pdf/Circuiti-aritmetici.pdf){:target="\_blank"}
+[//]: # (* [Lezione 3: Rappresentazione binaria di dati complessi](../assets/pdf/Rappresentazione-binaria-di-dati-complessi.pdf){:target="\_blank"}
+[//]: # (* [Esercitazione 1: Esercizi sistemi di numerazione e rappresentazione binaria](../assets/pdf/Esercizi-sistemi-di-numerazione-e-rappresentazione-binaria.pdf){:target="\_blank"})
+[//]: # (* [Lezione 4: Algebra booleana e circuiti logici](../assets/pdf/algebra-booleana-e-circuiti-logici.pdf){:target="\_blank"})
+[//]: # (* [Esercitazione 2: Esercizi algebra booleana](../assets/pdf/Esercizi-algebra-booleana.pdf){:target="\_blank"})
+[//]: # (* [Lezione 5: Circuiti integrati](../assets/pdf/Tecnologia-microelettronica.pdf){:target="\_blank"})
+[//]: # (* [Esercitazione 3: Esercizi circuiti integrati](../assets/pdf/Esercizi-circuiti-logici.pdf){:target="\_blank"})
+[//]: # (* [Lezione 6: Insieme di isturzioni macchina](../assets/pdf/Insieme-di-istruzioni-macchina.pdf){:target="\_blank"})
+[//]: # (* [Esercitazione 4: Esercizi ARM 1 (slides)](../assets/pdf/Esercitazione-ARM-1.pdf){:target="\_blank"})
+[//]: # (* [Esercitazione 5: Esercizi ARM 1 (codici)](../assets/archives/Primi-esercizi-ARM.zip){:target="\_blank"})
+[//]: # (* [Lezione 7: Operazioni di ingresso e uscita](../assets/pdf/Operazioni-di-ingresso-e-uscita.pdf){:target="\_blank"})
+[//]: # (* [Esercitazione 6: Esercizi ARM 2 (codici)](../assets/archives/Secondi-esercizi-ARM.zip){:target="\_blank"})
+[//]: # (* [Lezione 8: Livello software](../assets/pdf/Livello-software.pdf){:target="\_blank"})
+[//]: # (* [Lezione 9: Struttura base del processore](../assets/pdf/Struttura-base-del-processore.pdf){:target="\_blank"})
+[//]: # (* [Esercitazione 7: Esercizi struttura del processore](../assets/pdf/Esercizi-struttura-del-processore.pdf){:target="\_blank"})
+[//]: # (* [Lezione 10: Pipelining](../assets/pdf/Pipelining.pdf){:target="\_blank"})
+[//]: # (* [Esercitazione 8: Esercizi pipelining](../assets/pdf/Esercizi-pipelining.pdf){:target="\_blank"})
+[//]: # (* [Lezione 11: Interfacce di I/O](../assets/pdf/Interfacce-Input-Output.pdf){:target="\_blank"})
+[//]: # (* [Lezione 12: Sistemi di memoria](../assets/pdf/sistemi_di_memoria.pdf){:target="\_blank"})
+[//]: # (* [Lezione 13: Circuiti aritmetici](../assets/pdf/Circuiti-aritmetici.pdf){:target="\_blank"})
 
 ### Summary of my past teching activities:
 
