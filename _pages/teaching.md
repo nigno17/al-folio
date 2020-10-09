@@ -11,6 +11,8 @@ social: true
 
 * [Lezione 1: Introduzione al corso](../assets/pdf/introduzione-al-corso.pdf){:target="\_blank"}
 * [Lezione 2: Sistemi di numerazione e rappresentazione binaria](../assets/pdf/Sistemi-di-numerazione-e-rappresentazione-binaria.pdf){:target="\_blank"}
+* [Lezione 3: Rappresentazione binaria di dati complessi](../assets/pdf/Rappresentazione-binaria-di-dati-complessi.pdf){:target="\_blank"}
+* [Esercitazione 1: Esercizi sistemi di numerazione e rappresentazione binaria](../assets/pdf/Esercizi-sistemi-di-numerazione-e-rappresentazione-binaria.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
