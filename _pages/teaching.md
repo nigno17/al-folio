@@ -14,6 +14,8 @@ social: true
 * [Lezione 3: Rappresentazione binaria di dati complessi](../assets/pdf/Rappresentazione-binaria-di-dati-complessi.pdf){:target="\_blank"}
 * [Esercitazione 1: Esercizi sistemi di numerazione e rappresentazione binaria](../assets/pdf/Esercizi-sistemi-di-numerazione-e-rappresentazione-binaria.pdf){:target="\_blank"}
 * [Lezione 4: Algebra booleana e circuiti logici](../assets/pdf/algebra-booleana-e-circuiti-logici.pdf){:target="\_blank"}
+* [Esercitazione 2: Esercizi algebra booleana](../assets/pdf/Esercizi-algebra-booleana.pdf){:target="\_blank"}
+* [Lezione 5: Circuiti integrati](../assets/pdf/Tecnologia-microelettronica.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
