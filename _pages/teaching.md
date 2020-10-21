@@ -16,6 +16,8 @@ social: true
 * [Lezione 4: Algebra booleana e circuiti logici](../assets/pdf/algebra-booleana-e-circuiti-logici.pdf){:target="\_blank"}
 * [Esercitazione 2: Esercizi algebra booleana](../assets/pdf/Esercizi-algebra-booleana.pdf){:target="\_blank"}
 * [Lezione 5: Circuiti integrati](../assets/pdf/Tecnologia-microelettronica.pdf){:target="\_blank"}
+* [Esercitazione 3: Esercizi circuiti integrati](../assets/pdf/Esercizi-circuiti-logici.pdf){:target="\_blank"}
+* [Lezione 6: ALU](../assets/pdf/ALU.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
