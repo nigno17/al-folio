@@ -18,6 +18,8 @@ social: true
 * [Lezione 5: Circuiti integrati](../assets/pdf/Tecnologia-microelettronica.pdf){:target="\_blank"}
 * [Esercitazione 3: Esercizi circuiti integrati](../assets/pdf/Esercizi-circuiti-logici.pdf){:target="\_blank"}
 * [Lezione 6: ALU](../assets/pdf/ALU.pdf){:target="\_blank"}
+* [Lezione 7: Circuiti sequenziali](../assets/pdf/Reti-sequenziali.pdf){:target="\_blank"}
+* [Materiale integrativo 1: Esempio shift register](../assets/img/Esempio_Shift_register.png){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
