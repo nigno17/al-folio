@@ -20,6 +20,7 @@ social: true
 * [Lezione 6: ALU](../assets/pdf/ALU.pdf){:target="\_blank"}
 * [Lezione 7: Circuiti sequenziali](../assets/pdf/Reti-sequenziali.pdf){:target="\_blank"}
 * [Materiale integrativo 1: Esempio shift register](../assets/img/Esempio_Shift_register.png){:target="\_blank"}
+* [Lezione 8: Insieme di isturzioni macchina](../assets/pdf/Insieme-di-istruzioni-macchina.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
