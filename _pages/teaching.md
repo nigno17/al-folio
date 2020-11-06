@@ -22,6 +22,7 @@ social: true
 * [Materiale integrativo 1: Esempio shift register](../assets/img/Esempio_Shift_register.png){:target="\_blank"}
 * [Lezione 8: Insieme di isturzioni macchina](../assets/pdf/Insieme-di-istruzioni-macchina.pdf){:target="\_blank"}
 * [Materiale integrativo 2: Appunti lezione circuiti sequenziali](../assets/archives/Appunti-lezione-2.zip){:target="\_blank"}
+* [Esercitazione 4: Esercizi ARM 1 (slides)](../assets/pdf/Esercitazione-ARM-1.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
