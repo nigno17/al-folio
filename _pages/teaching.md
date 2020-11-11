@@ -23,6 +23,7 @@ social: true
 * [Lezione 8: Insieme di isturzioni macchina](../assets/pdf/Insieme-di-istruzioni-macchina.pdf){:target="\_blank"}
 * [Materiale integrativo 2: Appunti lezione circuiti sequenziali](../assets/archives/Appunti-lezione-2.zip){:target="\_blank"}
 * [Esercitazione 4: Esercizi ARM 1 (slides)](../assets/pdf/Esercitazione-ARM-1.pdf){:target="\_blank"}
+* [Esercitazione 5: Esercizi ARM 1 (codici)](../assets/archives/Esercizi_assembly_1.zip){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
