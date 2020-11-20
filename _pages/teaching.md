@@ -26,6 +26,7 @@ social: true
 * [Esercitazione 5: Esercizi ARM 1 (codici)](../assets/archives/Esercizi_assembly_1.zip){:target="\_blank"}
 * [Esercitazione 6: Esercizi ARM chiamata a sottoprogramma (codici)](../assets/archives/Esercizi_assembly_2.zip){:target="\_blank"}
 * [Esercitazione 7: Esercizi ARM BCD e ricerca stringa (codici)](../assets/archives/Esercizi_assembly_3.zip){:target="\_blank"}
+* [Lezione 9: Operazioni di ingresso e uscita](../assets/pdf/Operazioni-di-ingresso-e-uscita.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
