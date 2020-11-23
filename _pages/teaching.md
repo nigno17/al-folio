@@ -27,6 +27,8 @@ social: true
 * [Esercitazione 6: Esercizi ARM chiamata a sottoprogramma (codici)](../assets/archives/Esercizi_assembly_2.zip){:target="\_blank"}
 * [Esercitazione 7: Esercizi ARM BCD e ricerca stringa (codici)](../assets/archives/Esercizi_assembly_3.zip){:target="\_blank"}
 * [Lezione 9: Operazioni di ingresso e uscita](../assets/pdf/Operazioni-di-ingresso-e-uscita.pdf){:target="\_blank"}
+* [Lezione 10: Livello software](../assets/pdf/Livello-software.pdf){:target="\_blank"}
+* [Lezione 11: Struttura base del processore](../assets/pdf/Struttura-base-del-processore.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
