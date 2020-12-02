@@ -29,6 +29,9 @@ social: true
 * [Lezione 9: Operazioni di ingresso e uscita](../assets/pdf/Operazioni-di-ingresso-e-uscita.pdf){:target="\_blank"}
 * [Lezione 10: Livello software](../assets/pdf/Livello-software.pdf){:target="\_blank"}
 * [Lezione 11: Struttura base del processore](../assets/pdf/Struttura-base-del-processore.pdf){:target="\_blank"}
+* [Esercitazione 8: Esercizi struttura del processore](../assets/pdf/Esercizi-struttura-del-processore.pdf){:target="\_blank"}
+* [Lezione 12: Pipelining](../assets/pdf/Pipelining.pdf){:target="\_blank"}
+* [Esercitazione 9: Esercizi pipelining](../assets/pdf/Esercizi-pipelining.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
