@@ -35,6 +35,7 @@ social: true
 * [Esercitazione 10: Laboratorio ARM su Raspberry Pi](https://github.com/nigno17/ARM_lab){:target="\_blank"}
 * [Lezione 13: Interfacce di I/O](../assets/pdf/Interfacce-Input-Output.pdf){:target="\_blank"}
 * [Lezione 14: Sistemi di memoria](../assets/pdf/sistemi_di_memoria.pdf){:target="\_blank"}
+* [Materiale integrativo 3: Esercizio indirizzamento cache](../assets/pdf/Esercizio_cache.pdf){:target="\_blank"}
 
 ### Summary of my past teching activities:
 
